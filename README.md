@@ -14,6 +14,8 @@ Python (HTTP REST API - Bridge + FastAPI - Web)<br>
 <img width="1918" height="968" alt="fastapi2" src="https://github.com/user-attachments/assets/d19e9231-22b1-4197-a1af-4d5ec40c8b09" /><br><br>
 
 PostgreSQL (DB)<br>
-<img width="1920" height="1140" alt="postgresql" src="https://github.com/user-attachments/assets/82865fb8-4c1f-4f9b-9206-074bd064afbd" /><br>
+<img width="1920" height="1140" alt="postgresql" src="https://github.com/user-attachments/assets/82865fb8-4c1f-4f9b-9206-074bd064afbd" /><br><br>
 
-Pygame & Panda3D
+Pygame & Panda3D<br>
+<img width="2909" height="500" alt="게임들" src="https://github.com/user-attachments/assets/ad586638-e352-4b63-9791-af03848d6fd9" /><br>
+<img width="2505" height="500" alt="게임들2" src="https://github.com/user-attachments/assets/fbc553ca-5277-42f1-974a-294f27e873b8" />
