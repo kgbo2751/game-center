@@ -1,6 +1,8 @@
 Intellij (IDE + SonarQube + Lombok) + Java Spring Boot (Backend - Framework) + Spring Cloud (Openfeign, Gateway) + Thymeleaf (Frontend - Library) + HTML/CSS/JavaScript + PostgreSQL (DB) + Python (HTTP REST API - Bridge + FastAPI - Web + Pygame & Panda3D)<br><br>
 
 Java Spring Boot (Backend - Framework) + Spring Cloud (Openfeign, Gateway) + Thymeleaf (Frontend - Library)<br>
+Openfeign - 서버끼리 통신 HTTP 클라이언트, Gateway - 연결 한번에 묶는 라우팅<br>
+Port - Java 8080, Python 8000, Spring Data JPA (Wallet) 8081, Spring Cloud Gateway 9000<br>
 <img width="1920" height="1140" alt="자바" src="https://github.com/user-attachments/assets/43dffdc9-28d9-4b63-b151-42a59dd6c8de" /><br>
 <img width="1917" height="905" alt="타임리프" src="https://github.com/user-attachments/assets/40616615-cc7b-4cb3-a4a1-3057f85160bd" /><br>
 <img width="1918" height="867" alt="타임리프2" src="https://github.com/user-attachments/assets/a9ac1697-ce8f-4b7f-8629-126f5d27f0a6" /><br><br>
